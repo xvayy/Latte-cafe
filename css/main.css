@@ -1,0 +1,301 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Azeret Mono', monospace;
+}
+
+header {
+    background-color: #4A2B33;
+}
+
+.section {
+    background-color: #4A2B33;
+    padding-bottom: 36px;
+}
+
+.contain {
+    max-width: 1328px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-text {
+    color: #D27487;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    margin-right: 20px;
+}
+
+.items {
+    margin-right: 17px;
+}
+
+.line-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 47px;
+    padding-bottom: 48px;
+}
+
+.wrapper-text {
+    margin-top: 220px;
+    margin-bottom: 220px;
+}
+
+.sec2-title {
+    font-family: 'Azeret Mono', monospace;
+    text-align: center;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.sec2-text {
+    display: block;
+    max-width: 900px;
+    max-height: 273px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 45px;
+    margin-left: 205px;
+}
+
+.section3 {
+    background-color: #E9E9E3;
+}
+
+.menu-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.m-title {
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #6F6F64;
+    margin-bottom: 17px;
+}
+
+.m-text {
+    display: block;
+    max-width: 560px;
+    max-height: 185px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 45px;
+    color: #6F6F64;
+    margin-bottom: 63px;
+}
+
+.button-menu {
+    display: block;
+    max-width: 531px;
+    max-height: 789px;
+}
+
+.btn1 {
+    width: 531px;
+    height: 58px;
+    background-color: #F5F5F5;
+    color:#6F6F64;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid;
+    margin-bottom: 12px;
+    margin-top: 63px;
+}
+
+.btn2 {
+    width: 531px;
+    height: 58px;
+    background-color: #F5F5F5;
+    color:#6F6F64;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid;
+    margin-bottom: 12px;
+}
+
+.btn3 {
+    width: 531px;
+    height: 58px;
+    background-color: #F5F5F5;
+    color:#6F6F64;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid;
+}
+
+.btn1:hover {
+    color: #fff;
+    background-color: #6F6F64;
+}
+
+.btn3:hover {
+    color: #fff;
+    background-color: #6F6F64;
+}
+
+.btn2:hover {
+    color: #fff;
+    background-color: #6F6F64;
+}
+
+.section4 {
+    height: 473px;
+    background-color: #AA9E54;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    color: #fff;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.info1 {
+    width: 389px;
+    height: 125px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.info2 {
+    width: 389px;
+    height: 233px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.info3 {
+    width: 389px;
+    height: 125px;
+    text-align: center;
+}
+
+.i-title1 {
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+.i-title2 {
+    margin-top: 55px;
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+.i-title3 {
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+.i-text2 {
+    margin-bottom: 35px;
+}
+
+.photo-wrapper {
+    display: flex;
+    padding-bottom: 120px;
+    padding-top: 140px;
+}
+
+.img1 {
+    margin-bottom: 40px;
+
+}
+
+.section6 {
+    background-color: #4A2B33;
+}
+
+.cafe {
+    display: flex;
+    color: #D27487;
+    padding-top: 121px;
+    padding-bottom: 133px;
+}
+
+.title01 {
+    width: 413px;
+    height: 125px;
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 62px;
+    letter-spacing: 1px;
+    margin-right: 267px;
+
+}
+
+.text01 {
+    font-family: 'Inter', sans-serif;
+    width: 595px;
+    height: 189px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.section7 {
+    font-family: 'Inter', sans-serif;
+}
+
+.contacts  {
+    padding-top: 52px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    width: 650px;
+    height: 60px;
+}
+
+.contacts {
+    display: block;
+    margin: 0 auto;
+}
+
+.contacts a {
+    margin-right: 32px;
+    color: black;
+}
+
+.latte {
+    width: 433px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #696969;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
